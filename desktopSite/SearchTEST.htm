@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Local Search Control for Google Maps - default.html</title>
+
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAzgnQkUSe3J6IElQAHFBQOBTLUkhTJp9piEDXfBAGBDdkN5dApxTbsm7oPYQbMI8NurlFHfXRyb8YbA" type="text/javascript"></script>
+    <script src="http://www.google.com/uds/api?file=uds.js&v=1.0&key=ABQIAAAAzgnQkUSe3J6IElQAHFBQOBTLUkhTJp9piEDXfBAGBDdkN5dApxTbsm7oPYQbMI8NurlFHfXRyb8YbA" type="text/javascript"></script>
+    <script src="http://www.google.com/uds/solutions/localsearch/gmlocalsearch.js" type="text/javascript"></script>
+
+    <style type="text/css">
+      @import url("http://www.google.com/uds/css/gsearch.css");
+      @import url("http://www.google.com/uds/solutions/localsearch/gmlocalsearch.css");
+
+      #map {
+        border : 1px solid #979797;
+        width : 100%;
+        height : 600px;
+      }
+    a:link {
+	color: #166BBA;
+}
+a:visited {
+	color: #166BBA;
+}
+</style>
+
+    <script type="text/javascript">
+      //<![CDATA[
+      function load() {
+        if (GBrowserIsCompatible()) {
+
+          // Create and Center a Map
+          var map = new GMap2(document.getElementById("map"));
+		  for (i in map) {GLog.write(i);}
+          map.setCenter(new GLatLng(49.400000, -122.845783), 10);
+          map.addControl(new GLargeMapControl());
+          map.addControl(new GMapTypeControl());
+		  
+		  // bind a search control to the map, 
+          map.addControl(new google.maps.LocalSearch());
+		  
+		  // request an "on generate marker html" callback. This is called during the open of an info window.
+		  var options = {onGenerateMarkerHtmlCallback : extendMarker};
+		  
+		  function extendMarker(marker, html, result) 
+		  {
+			  // extend the passed in html for this result
+			  myStuff = document.createElement("div");
+			  div.innerHTML = "Bookmark This Result...";
+			  html.appendChild(div);
+			  return html;
+		  }
+		  for (i in map) {GLog.write(i);}
+        }
+      }
+      GSearch.setOnLoadCallback(load);
+      //]]>
+    </script>
+  </head>
+  <body onunload="GUnload()">
+    <div id="map"></div>
+  </body>
+</html>   
+
+
+

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<markers>
+	<marker lat="49.1630475977" lng="-122.902145364" infoWin="Left side bike button" id="101"/>
+	<marker lat="49.2897841061" lng="-123.12940232" infoWin="Left side bike box" id="102"/>
+	<marker lat="49.2776718515" lng="-123.099183514" infoWin="Left side bike box" id="103"/>
+	<marker lat="49.2110379846" lng="-123.080015402" infoWin="Left side bike box" id="104"/>
+	<marker lat="49.2621322091" lng="-123.065738274" infoWin="Left side bike box" id="105"/>
+	<marker lat="49.3083379239" lng="-123.046830935" infoWin="Left side bike box" id="106"/>
+	<marker lat="49.2089278067" lng="-122.932302166" infoWin="Left side bike button" id="107"/>
+	<marker lat="49.2317244538" lng="-122.890142515" infoWin="Left side bike button" id="108"/>
+	<marker lat="49.2125322748" lng="-122.925575681" infoWin="Left side bike button" id="109"/>
+	<marker lat="49.2144225874" lng="-122.922088797" infoWin="Left side bike button" id="110"/>
+	<marker lat="49.2595331344" lng="-123.073693945" infoWin="Left side bike button" id="111"/>
+	<marker lat="49.2595383365" lng="-123.083352298" infoWin="Left side bike button" id="112"/>
+	<marker lat="49.2623425083" lng="-123.073646366" infoWin="Left side bike button" id="113"/>
+	<marker lat="49.2597361673" lng="-123.073690682" infoWin="Left side bike button" id="114"/>
+	<marker lat="49.2368338011" lng="-123.076806302" infoWin="Left side bike button" id="115"/>
+	<marker lat="49.2693261323" lng="-123.049454114" infoWin="Left side bike button" id="116"/>
+	<marker lat="49.2614054173" lng="-123.077150141" infoWin="Left side bike button" id="117"/>
+	<marker lat="49.2620984056" lng="-123.081395987" infoWin="Left side bike button" id="118"/>
+	<marker lat="49.2364397222" lng="-123.185516684" infoWin="Left side bike button" id="119"/>
+	<marker lat="49.2889529563" lng="-123.046697451" infoWin="Left side bike button" id="120"/>
+	<marker lat="49.2892633435" lng="-123.132525248" infoWin="Left side bike button" id="121"/>
+	<marker lat="49.2679950052" lng="-123.164544143" infoWin="Left side bike button" id="122"/>
+	<marker lat="49.2638215442" lng="-123.164651759" infoWin="Left side bike button" id="123"/>
+	<marker lat="49.2382963903" lng="-123.155740358" infoWin="Left side bike button" id="124"/>
+	<marker lat="49.2628598534" lng="-123.152892005" infoWin="Left side bike button" id="125"/>
+	<marker lat="49.2851308248" lng="-123.138813088" infoWin="Left side bike button" id="126"/>
+	<marker lat="49.2624436063" lng="-123.12684488" infoWin="Left side bike button" id="127"/>
+	<marker lat="49.237656463" lng="-123.128181048" infoWin="Left side bike button" id="128"/>
+	<marker lat="49.2619694308" lng="-123.098367201" infoWin="Left side bike button" id="129"/>
+	<marker lat="49.2620068228" lng="-123.100748361" infoWin="Left side bike button" id="130"/>
+	<marker lat="49.237260167" lng="-123.101569501" infoWin="Left side bike button" id="131"/>
+	<marker lat="49.2380217161" lng="-123.139742385" infoWin="Left side bike button" id="132"/>
+	<marker lat="49.2430269642" lng="-123.043464285" infoWin="Left side bike button" id="133"/>
+	<marker lat="49.281017586" lng="-123.046661692" infoWin="Left side bike button" id="134"/>
+	<marker lat="49.2293011739" lng="-123.042985634" infoWin="Left side bike button" id="135"/>
+	<marker lat="49.2432921726" lng="-123.026839825" infoWin="Left side bike button" id="136"/>
+	<marker lat="49.2577893508" lng="-123.049570399" infoWin="Left side bike button" id="137"/>
+	<marker lat="49.2326412941" lng="-123.048786374" infoWin="Left side bike button" id="138"/>
+	<marker lat="49.2327250412" lng="-123.058864792" infoWin="Left side bike button" id="139"/>
+	<marker lat="49.2846896811" lng="-123.061620582" infoWin="Left side bike button" id="140"/>
+	<marker lat="49.277665066" lng="-123.076938162" infoWin="Left side bike button" id="141"/>
+	<marker lat="49.2696150066" lng="-123.073490416" infoWin="Left side bike button" id="142"/>
+	<marker lat="49.2766808076" lng="-123.074368533" infoWin="Left side bike button" id="143"/>
+	<marker lat="49.2813267209" lng="-123.061687077" infoWin="Left side bike button" id="144"/>
+	<marker lat="49.2849633352" lng="-123.061616296" infoWin="Left side bike button" id="145"/>
+	<marker lat="49.2325404714" lng="-123.079813815" infoWin="Left side bike button" id="146"/>
+	<marker lat="49.2620787985" lng="-123.062033802" infoWin="Left side bike button" id="147"/>
+	<marker lat="49.2594042497" lng="-123.062075982" infoWin="Left side bike button" id="148"/>
+	<marker lat="49.2434535103" lng="-123.061928806" infoWin="Left side bike button" id="149"/>
+	<marker lat="49.2484419163" lng="-123.083896001" infoWin="Left side bike button" id="150"/>
+	<marker lat="49.2809968561" lng="-123.061693247" infoWin="Left side bike button" id="151"/>
+	<marker lat="49.2577535452" lng="-123.069715883" infoWin="Left side bike button" id="152"/>
+	<marker lat="49.2536186756" lng="-123.083729449" infoWin="Left side bike button" id="153"/>
+	<marker lat="49.2626803041" lng="-123.141227748" infoWin="Left side bike button" id="154"/>
+	<marker lat="49.2627500398" lng="-123.145808394" infoWin="Left side bike button" id="155"/>
+	<marker lat="49.2372731836" lng="-123.116479784" infoWin="Left side bike button" id="156"/>
+	<marker lat="49.2626439055" lng="-123.13887322" infoWin="Left side bike button" id="157"/>
+	<marker lat="49.2251653513" lng="-123.080055946" infoWin="Left side bike button" id="158"/>
+	<marker lat="49.2246459989" lng="-123.050345975" infoWin="Left side bike button" id="159"/>
+	<marker lat="49.240630985" lng="-123.037594082" infoWin="Left side bike button" id="160"/>
+	<marker lat="49.261845315" lng="-123.049584193" infoWin="Left side bike button" id="161"/>
+	<marker lat="49.2382277632" lng="-123.031822332" infoWin="Left side bike button" id="162"/>
+	<marker lat="49.2693382471" lng="-123.061900228" infoWin="Left side bike button" id="163"/>
+	<marker lat="49.2401683347" lng="-123.084585114" infoWin="Left side bike button" id="164"/>
+	<marker lat="49.2359225541" lng="-123.065446183" infoWin="Left side bike button" id="165"/>
+	<marker lat="49.2218002835" lng="-123.008755354" infoWin="Left side bike button" id="166"/>
+	<marker lat="49.2183730622" lng="-122.933405747" infoWin="Left side bike button" id="167"/>
+	<marker lat="49.220547905" lng="-122.929467386" infoWin="Left side bike button" id="168"/>
+	<marker lat="49.2148316656" lng="-122.939878875" infoWin="Left side bike button" id="169"/>
+	<marker lat="49.2245165142" lng="-123.010631411" infoWin="Left side bike button" id="170"/>
+	<marker lat="49.280867192" lng="-123.011414946" infoWin="Left side bike button" id="171"/>
+	<marker lat="49.2324225909" lng="-123.012608738" infoWin="Left side bike button" id="172"/>
+	<marker lat="49.2791984518" lng="-123.003002194" infoWin="Left side bike button" id="173"/>
+	<marker lat="49.2544690627" lng="-123.010725057" infoWin="Left side bike button" id="174"/>
+	<marker lat="49.2326717032" lng="-123.012573563" infoWin="Left side bike button" id="175"/>
+	<marker lat="49.2778169002" lng="-122.969845423" infoWin="Left side bike button" id="176"/>
+	<marker lat="49.2265043781" lng="-122.99421523" infoWin="Left side bike button" id="177"/>
+	<marker lat="49.2613962241" lng="-123.069397353" infoWin="Left side bike button" id="178"/>
+	<marker lat="49.0352980014" lng="-123.068866508" infoWin="Left side bike button" id="179"/>
+	<marker lat="49.1266548934" lng="-122.87901116" infoWin="Left side bike button" id="180"/>
+	<marker lat="49.1266550834" lng="-122.8788264" infoWin="Left side bike button" id="181"/>
+	<marker lat="49.0352947083" lng="-123.06860219" infoWin="Left side bike button" id="182"/>
+	<marker lat="49.264377443" lng="-123.014213999" infoWin="Left side bike button" id="183"/>
+	<marker lat="49.2365785272" lng="-123.090612574" infoWin="Left side bike button" id="184"/>
+	<marker lat="49.2365488328" lng="-123.090353216" infoWin="Left side bike button" id="185"/>
+	<marker lat="49.1885757232" lng="-122.850276071" infoWin="Left side bike button" id="186"/>
+	<marker lat="49.2341621037" lng="-123.023245667" infoWin="Left side bike button" id="187"/>
+	<marker lat="49.2278910741" lng="-122.893027537" infoWin="Left side bike button" id="188"/>
+	<marker lat="49.2642325744" lng="-123.077343503" infoWin="Left side bike button" id="189"/>
+	<marker lat="49.2256284013" lng="-123.105900929" infoWin="Left side bike button" id="190"/>
+	<marker lat="49.2124354774" lng="-123.106567313" infoWin="Left side bike button" id="191"/>
+	<marker lat="49.2692645474" lng="-123.137575235" infoWin="Left side bike button" id="192"/>
+	<marker lat="49.2695248982" lng="-123.13815166" infoWin="Left side bike button" id="193"/>
+	<marker lat="49.2636299364" lng="-123.20301612" infoWin="Left side bike button" id="194"/>
+	<marker lat="49.2580388322" lng="-123.197026926" infoWin="Left side bike button" id="195"/>
+	<marker lat="49.2726160914" lng="-123.164374657" infoWin="Left side bike button" id="196"/>
+	<marker lat="49.2649731381" lng="-123.115001144" infoWin="Left side bike button" id="197"/>
+	<marker lat="49.2653057725" lng="-123.136274584" infoWin="Left side bike button" id="198"/>
+	<marker lat="49.2570674337" lng="-123.148376743" infoWin="Left side bike button" id="199"/>
+	<marker lat="49.2706706921" lng="-123.145758825" infoWin="Left side bike button" id="200"/>
+	<marker lat="49.2572881761" lng="-123.148369993" infoWin="Left side bike button" id="201"/>
+	<marker lat="49.2607944694" lng="-123.148256871" infoWin="Left side bike button" id="202"/>
+	<marker lat="49.2723157143" lng="-123.147813114" infoWin="Left side bike button" id="203"/>
+	<marker lat="49.2678909402" lng="-123.14798269" infoWin="Left side bike button" id="204"/>
+	<marker lat="49.2664052698" lng="-123.100612194" infoWin="Left side bike button" id="205"/>
+	<marker lat="49.2628504392" lng="-123.104891334" infoWin="Left side bike button" id="206"/>
+	<marker lat="49.2690452193" lng="-123.1046584" infoWin="Left side bike button" id="207"/>
+	<marker lat="49.2602069222" lng="-123.119952509" infoWin="Left side bike button" id="208"/>
+	<marker lat="49.2630703704" lng="-123.119901305" infoWin="Left side bike button" id="209"/>
+	<marker lat="49.2636441524" lng="-123.119868893" infoWin="Left side bike button" id="210"/>
+	<marker lat="49.2600551638" lng="-123.105035683" infoWin="Left side bike button" id="211"/>
+	<marker lat="49.2490146176" lng="-123.104988683" infoWin="Left side bike button" id="212"/>
+	<marker lat="49.2410237092" lng="-123.120641245" infoWin="Left side bike button" id="213"/>
+	<marker lat="49.2330080451" lng="-123.105614819" infoWin="Left side bike button" id="214"/>
+	<marker lat="49.2691854045" lng="-123.109428015" infoWin="Left side bike button" id="215"/>
+	<marker lat="49.2403935046" lng="-123.105371594" infoWin="Left side bike button" id="216"/>
+	<marker lat="49.2343486195" lng="-123.147672905" infoWin="Left side bike button" id="217"/>
+	<marker lat="49.2774698878" lng="-123.056343326" infoWin="Left side bike button" id="218"/>
+	<marker lat="49.2068917096" lng="-123.056817976" infoWin="Left side bike button" id="219"/>
+	<marker lat="49.2258370604" lng="-123.105895982" infoWin="Left side bike button" id="220"/>
+	<marker lat="49.2653459329" lng="-123.138721158" infoWin="Left side bike button" id="221"/>
+	<marker lat="49.2653856465" lng="-123.141247304" infoWin="Left side bike button" id="222"/>
+	<marker lat="49.2571545283" lng="-123.120122489" infoWin="Left side bike button" id="223"/>
+	<marker lat="49.2568739494" lng="-123.120130611" infoWin="Left side bike button" id="224"/>
+	<marker lat="49.2654592185" lng="-123.145950736" infoWin="Left side bike button" id="225"/>
+	<marker lat="49.2564772111" lng="-123.185356662" infoWin="Left side bike button" id="226"/>
+	<marker lat="49.277556387" lng="-123.023254839" infoWin="Left side bike button" id="227"/>
+	<marker lat="49.2802035708" lng="-122.953391701" infoWin="Left side bike button" id="228"/>
+	<marker lat="49.248645413" lng="-123.105004862" infoWin="Left side bike button" id="229"/>
+	<marker lat="49.1488354262" lng="-122.901435417" infoWin="Left side bike button" id="230"/>
+	<marker lat="49.1559087388" lng="-122.901390087" infoWin="Left side bike button" id="231"/>
+	<marker lat="49.1557667001" lng="-122.901521565" infoWin="Left side bike button" id="232"/>
+	<marker lat="49.1917319239" lng="-122.841900078" infoWin="Left side bike button" id="233"/>
+	<marker lat="49.1699186511" lng="-122.856465732" infoWin="Left side bike button" id="234"/>
+	<marker lat="49.0455850601" lng="-122.790188323" infoWin="Left side bike button" id="235"/>
+	<marker lat="49.3241426017" lng="-123.072035992" infoWin="Left side bike button" id="236"/>
+	<marker lat="49.3241467607" lng="-123.072451544" infoWin="Left side bike button" id="237"/>
+	<marker lat="49.1880907567" lng="-122.847731537" infoWin="Left side bike button" id="238"/>
+	<marker lat="49.3083373338" lng="-123.046702339" infoWin="Left side bike button" id="239"/>
+	<marker lat="49.308338463" lng="-123.04694845" infoWin="Left side bike button" id="240"/>
+	<marker lat="49.2220441197" lng="-122.997233414" infoWin="Left side bike button" id="241"/>
+	<marker lat="49.219872813" lng="-122.98835691" infoWin="Left side bike button" id="242"/>
+	<marker lat="49.2414172827" lng="-122.997965021" infoWin="Left side bike button" id="243"/>
+	<marker lat="49.2533476641" lng="-122.966420494" infoWin="Left side bike button" id="244"/>
+	<marker lat="49.216853068" lng="-122.960856643" infoWin="Left side bike button" id="245"/>
+	<marker lat="49.2486683618" lng="-123.05682101" infoWin="Left side bike button" id="246"/>
+	<marker lat="49.2486051392" lng="-123.056650787" infoWin="Left side bike button" id="247"/>
+	<marker lat="49.2049370151" lng="-122.854793765" infoWin="Left side bike button" id="248"/>
+	<marker lat="49.2147769975" lng="-122.971887668" infoWin="Left side bike button" id="249"/>
+	<marker lat="49.2883877304" lng="-122.8968637" infoWin="Left side bike button" id="250"/>
+	<marker lat="49.1720242139" lng="-123.16445737" infoWin="Left side loop marking" id="251"/>
+	<marker lat="49.1700511894" lng="-122.845532617" infoWin="Left side loop marking" id="252"/>
+	<marker lat="49.308338463" lng="-123.04694845" infoWin="Left side loop marking" id="253"/>
+	<marker lat="49.265582242" lng="-123.152874268" infoWin="Left side median barrier" id="254"/>
+	<marker lat="49.2774923753" lng="-123.023520009" infoWin="Left side median barrier" id="255"/>
+	<marker lat="49.2430682252" lng="-122.719433906" infoWin="Both sides bike button" id="256"/>
+	<marker lat="49.2431456988" lng="-122.719550398" infoWin="Both sides bike button" id="257"/>
+	<marker lat="49.2015762631" lng="-122.942007775" infoWin="Both sides bike button" id="258"/>
+	<marker lat="49.1737345469" lng="-122.834627053" infoWin="Both sides median barrier" id="259"/>
+	<marker lat="49.1192077788" lng="-122.876093597" infoWin="Both sides median barrier" id="260"/>
+	<marker lat="49.1681192838" lng="-122.856902559" infoWin="Both sides median barrier" id="261"/>
+	<marker lat="49.165391768" lng="-122.868053886" infoWin="Both sides median barrier" id="262"/>
+	<marker lat="49.2324225909" lng="-123.012608738" infoWin="Right side bike box" id="263"/>
+	<marker lat="49.2691878695" lng="-123.137526845" infoWin="Right side bike box" id="264"/>
+	<marker lat="49.2639258189" lng="-123.215247907" infoWin="Right side bike box" id="265"/>
+	<marker lat="49.209163816" lng="-122.931864934" infoWin="Right side bike button" id="266"/>
+	<marker lat="49.2145602935" lng="-122.921833873" infoWin="Right side bike button" id="267"/>
+	<marker lat="49.231540686" lng="-122.890148219" infoWin="Right side bike button" id="268"/>
+	<marker lat="49.2126194405" lng="-122.925414907" infoWin="Right side bike button" id="269"/>
+	<marker lat="49.2539468916" lng="-123.083711686" infoWin="Right side bike button" id="270"/>
+	<marker lat="49.2613980744" lng="-123.070016692" infoWin="Right side bike button" id="271"/>
+	<marker lat="49.2696278059" lng="-123.049440388" infoWin="Right side bike button" id="272"/>
+	<marker lat="49.2598113528" lng="-123.083349176" infoWin="Right side bike button" id="273"/>
+	<marker lat="49.2625062632" lng="-123.073643777" infoWin="Right side bike button" id="274"/>
+	<marker lat="49.2577564858" lng="-123.070046489" infoWin="Right side bike button" id="275"/>
+	<marker lat="49.2368386116" lng="-123.077159937" infoWin="Right side bike button" id="276"/>
+	<marker lat="49.2364397825" lng="-123.185360012" infoWin="Right side bike button" id="277"/>
+	<marker lat="49.2896163206" lng="-123.131993622" infoWin="Right side bike button" id="278"/>
+	<marker lat="49.2897841061" lng="-123.12940232" infoWin="Right side bike button" id="279"/>
+	<marker lat="49.2382909908" lng="-123.155435432" infoWin="Right side bike button" id="280"/>
+	<marker lat="49.2683050824" lng="-123.164539487" infoWin="Right side bike button" id="281"/>
+	<marker lat="49.2641183059" lng="-123.16463909" infoWin="Right side bike button" id="282"/>
+	<marker lat="49.2728397317" lng="-123.159703465" infoWin="Right side bike button" id="283"/>
+	<marker lat="49.2628586318" lng="-123.152811205" infoWin="Right side bike button" id="284"/>
+	<marker lat="49.2625878805" lng="-123.135909572" infoWin="Right side bike button" id="285"/>
+	<marker lat="49.238011509" lng="-123.139270374" infoWin="Right side bike button" id="286"/>
+	<marker lat="49.2832311459" lng="-123.141573081" infoWin="Right side bike button" id="287"/>
+	<marker lat="49.2372652956" lng="-123.101862733" infoWin="Right side bike button" id="288"/>
+	<marker lat="49.2624353563" lng="-123.126419731" infoWin="Right side bike button" id="289"/>
+	<marker lat="49.2376422814" lng="-123.127750718" infoWin="Right side bike button" id="290"/>
+	<marker lat="49.2622298067" lng="-123.114328812" infoWin="Right side bike button" id="291"/>
+	<marker lat="49.2622372748" lng="-123.114821664" infoWin="Right side bike button" id="292"/>
+	<marker lat="49.2626320795" lng="-123.138202596" infoWin="Right side bike button" id="293"/>
+	<marker lat="49.262013784" lng="-123.101255533" infoWin="Right side bike button" id="294"/>
+	<marker lat="49.2249007323" lng="-123.050332131" infoWin="Right side bike button" id="295"/>
+	<marker lat="49.2431383165" lng="-123.043736831" infoWin="Right side bike button" id="296"/>
+	<marker lat="49.2293016868" lng="-123.043316144" infoWin="Right side bike button" id="297"/>
+	<marker lat="49.2329166582" lng="-123.058862984" infoWin="Right side bike button" id="298"/>
+	<marker lat="49.243389833" lng="-123.02708421" infoWin="Right side bike button" id="299"/>
+	<marker lat="49.2329199578" lng="-123.048783906" infoWin="Right side bike button" id="300"/>
+	<marker lat="49.2621179552" lng="-123.049584571" infoWin="Right side bike button" id="301"/>
+	<marker lat="49.2776681575" lng="-123.077257327" infoWin="Right side bike button" id="302"/>
+	<marker lat="49.2695920246" lng="-123.061900729" infoWin="Right side bike button" id="303"/>
+	<marker lat="49.2768096031" lng="-123.074233708" infoWin="Right side bike button" id="304"/>
+	<marker lat="49.2329350627" lng="-123.084828884" infoWin="Right side bike button" id="305"/>
+	<marker lat="49.2623216871" lng="-123.062029969" infoWin="Right side bike button" id="306"/>
+	<marker lat="49.2434784902" lng="-123.061901712" infoWin="Right side bike button" id="307"/>
+	<marker lat="49.2486885436" lng="-123.083889055" infoWin="Right side bike button" id="308"/>
+	<marker lat="49.2812567603" lng="-123.046659533" infoWin="Right side bike button" id="309"/>
+	<marker lat="49.2580272314" lng="-123.049575455" infoWin="Right side bike button" id="310"/>
+	<marker lat="49.2853935999" lng="-123.13840637" infoWin="Right side bike button" id="311"/>
+	<marker lat="49.2627446181" lng="-123.14544433" infoWin="Right side bike button" id="312"/>
+	<marker lat="49.2776933028" lng="-123.100128537" infoWin="Right side bike button" id="313"/>
+	<marker lat="49.2626727526" lng="-123.140740369" infoWin="Right side bike button" id="314"/>
+	<marker lat="49.2253883251" lng="-123.08004964" infoWin="Right side bike button" id="315"/>
+	<marker lat="49.2343954149" lng="-123.023733639" infoWin="Right side bike button" id="316"/>
+	<marker lat="49.2407344276" lng="-123.037847758" infoWin="Right side bike button" id="317"/>
+	<marker lat="49.2697627719" lng="-123.073485963" infoWin="Right side bike button" id="318"/>
+	<marker lat="49.2624319713" lng="-123.081389637" infoWin="Right side bike button" id="319"/>
+	<marker lat="49.2402565546" lng="-123.084582576" infoWin="Right side bike button" id="320"/>
+	<marker lat="49.2614182154" lng="-123.07776414" infoWin="Right side bike button" id="321"/>
+	<marker lat="49.2886051841" lng="-123.046700611" infoWin="Right side bike button" id="322"/>
+	<marker lat="49.2220583027" lng="-123.008971749" infoWin="Right side bike button" id="323"/>
+	<marker lat="49.2182706565" lng="-122.933568043" infoWin="Right side bike button" id="324"/>
+	<marker lat="49.2204282559" lng="-122.929689525" infoWin="Right side bike button" id="325"/>
+	<marker lat="49.2247446747" lng="-123.01110615" infoWin="Right side bike button" id="326"/>
+	<marker lat="49.2269370377" lng="-122.994218122" infoWin="Right side bike button" id="327"/>
+	<marker lat="49.2791997075" lng="-123.003291804" infoWin="Right side bike button" id="328"/>
+	<marker lat="49.2811656876" lng="-123.01141042" infoWin="Right side bike button" id="329"/>
+	<marker lat="49.2549478043" lng="-123.010712148" infoWin="Right side bike button" id="330"/>
+	<marker lat="49.2778767028" lng="-122.970233128" infoWin="Right side bike button" id="331"/>
+	<marker lat="49.2777997353" lng="-122.964878342" infoWin="Right side bike button" id="332"/>
+	<marker lat="49.2147641643" lng="-122.940001499" infoWin="Right side bike button" id="333"/>
+	<marker lat="49.1372178492" lng="-122.838708471" infoWin="Right side bike button" id="334"/>
+	<marker lat="49.2757649286" lng="-123.116762471" infoWin="Right side bike button" id="335"/>
+	<marker lat="49.2383460478" lng="-123.032084054" infoWin="Right side bike button" id="336"/>
+	<marker lat="49.2647473765" lng="-123.014419698" infoWin="Right side bike button" id="337"/>
+	<marker lat="49.0313515837" lng="-122.69136227" infoWin="Right side bike button" id="338"/>
+	<marker lat="49.232608915" lng="-123.084947794" infoWin="Right side bike button" id="339"/>
+	<marker lat="49.2278864712" lng="-122.892655985" infoWin="Right side bike button" id="340"/>
+	<marker lat="49.2664330489" lng="-123.101067259" infoWin="Right side bike button" id="341"/>
+	<marker lat="49.2728028174" lng="-123.145411308" infoWin="Right side bike button" id="342"/>
+	<marker lat="49.2121575662" lng="-123.10658236" infoWin="Right side bike button" id="343"/>
+	<marker lat="49.2638844166" lng="-123.203008382" infoWin="Right side bike button" id="344"/>
+	<marker lat="49.2583187249" lng="-123.197150087" infoWin="Right side bike button" id="345"/>
+	<marker lat="49.2628207352" lng="-123.242245823" infoWin="Right side bike button" id="346"/>
+	<marker lat="49.2564759889" lng="-123.18481657" infoWin="Right side bike button" id="347"/>
+	<marker lat="49.272802178" lng="-123.164367156" infoWin="Right side bike button" id="348"/>
+	<marker lat="49.2652990182" lng="-123.135833035" infoWin="Right side bike button" id="349"/>
+	<marker lat="49.2653391733" lng="-123.138295175" infoWin="Right side bike button" id="350"/>
+	<marker lat="49.2654507122" lng="-123.145483933" infoWin="Right side bike button" id="351"/>
+	<marker lat="49.2345521194" lng="-123.147666238" infoWin="Right side bike button" id="352"/>
+	<marker lat="49.2706631153" lng="-123.145297804" infoWin="Right side bike button" id="353"/>
+	<marker lat="49.2610208091" lng="-123.148248319" infoWin="Right side bike button" id="354"/>
+	<marker lat="49.2636821964" lng="-123.148144344" infoWin="Right side bike button" id="355"/>
+	<marker lat="49.2681725895" lng="-123.147973127" infoWin="Right side bike button" id="356"/>
+	<marker lat="49.2638467041" lng="-123.148136759" infoWin="Right side bike button" id="357"/>
+	<marker lat="49.2333107633" lng="-123.10559882" infoWin="Right side bike button" id="358"/>
+	<marker lat="49.2412959288" lng="-123.120628173" infoWin="Right side bike button" id="359"/>
+	<marker lat="49.2488796437" lng="-123.12039" infoWin="Right side bike button" id="360"/>
+	<marker lat="49.2632724302" lng="-123.104875438" infoWin="Right side bike button" id="361"/>
+	<marker lat="49.2694907446" lng="-123.104644402" infoWin="Right side bike button" id="362"/>
+	<marker lat="49.2693674899" lng="-123.109424365" infoWin="Right side bike button" id="363"/>
+	<marker lat="49.2604599708" lng="-123.105020049" infoWin="Right side bike button" id="364"/>
+	<marker lat="49.2407449371" lng="-123.105356291" infoWin="Right side bike button" id="365"/>
+	<marker lat="49.2492839348" lng="-123.120377852" infoWin="Right side bike button" id="366"/>
+	<marker lat="49.277469645" lng="-123.056748445" infoWin="Right side bike button" id="367"/>
+	<marker lat="49.2071929354" lng="-123.056822764" infoWin="Right side bike button" id="368"/>
+	<marker lat="49.272614219" lng="-123.147801693" infoWin="Right side bike button" id="369"/>
+	<marker lat="49.264236558" lng="-123.077733699" infoWin="Right side bike button" id="370"/>
+	<marker lat="49.265375182" lng="-123.140638268" infoWin="Right side bike button" id="371"/>
+	<marker lat="49.2763010746" lng="-123.102862629" infoWin="Right side bike button" id="372"/>
+	<marker lat="49.2774276479" lng="-123.023836915" infoWin="Right side bike button" id="373"/>
+	<marker lat="49.2805195957" lng="-122.953389172" infoWin="Right side bike button" id="374"/>
+	<marker lat="49.2663061329" lng="-123.01433986" infoWin="Right side bike button" id="375"/>
+	<marker lat="49.1483733334" lng="-122.90143374" infoWin="Right side bike button" id="376"/>
+	<marker lat="49.1194383363" lng="-122.919973278" infoWin="Right side bike button" id="377"/>
+	<marker lat="49.1703391723" lng="-122.901263026" infoWin="Right side bike button" id="378"/>
+	<marker lat="49.1560851687" lng="-122.901547429" infoWin="Right side bike button" id="379"/>
+	<marker lat="49.1699135522" lng="-122.856961574" infoWin="Right side bike button" id="380"/>
+	<marker lat="49.1913914247" lng="-122.841903658" infoWin="Right side bike button" id="381"/>
+	<marker lat="49.0454234343" lng="-122.79018679" infoWin="Right side bike button" id="382"/>
+	<marker lat="49.2432906216" lng="-122.71976831" infoWin="Right side bike button" id="383"/>
+	<marker lat="49.2605447302" lng="-123.119936166" infoWin="Right side bike button" id="384"/>
+	<marker lat="49.1635127963" lng="-122.902135748" infoWin="Right side bike button" id="385"/>
+	<marker lat="49.1884553906" lng="-122.84988898" infoWin="Right side bike button" id="386"/>
+	<marker lat="49.2047905326" lng="-122.854418022" infoWin="Right side bike button" id="387"/>
+	<marker lat="49.201382384" lng="-122.941759451" infoWin="Right side bike button" id="388"/>
+	<marker lat="49.2015820502" lng="-122.941997054" infoWin="Right side bike button" id="389"/>
+	<marker lat="49.2220553281" lng="-122.997248397" infoWin="Right side bike button" id="390"/>
+	<marker lat="49.2199103739" lng="-122.988627648" infoWin="Right side bike button" id="391"/>
+	<marker lat="49.2533443003" lng="-122.96679967" infoWin="Right side bike button" id="392"/>
+	<marker lat="49.2148559571" lng="-122.972198473" infoWin="Right side bike button" id="393"/>
+	<marker lat="49.2168790131" lng="-122.96116226" infoWin="Right side bike button" id="394"/>
+	<marker lat="49.1756289705" lng="-122.801155143" infoWin="Right side bike button" id="395"/>
+	<marker lat="49.1756292698" lng="-122.800851836" infoWin="Right side bike button" id="396"/>
+	<marker lat="49.2882231803" lng="-122.896738349" infoWin="Right side bike button" id="397"/>
+	<marker lat="49.2428543202" lng="-122.719669432" infoWin="Right side bike button" id="398"/>
+	<marker lat="49.1702575748" lng="-123.164493376" infoWin="Right side loop marking" id="399"/>
+	<marker lat="49.1720242139" lng="-123.16445737" infoWin="Right side loop marking" id="400"/>
+	<marker lat="49.1698415046" lng="-123.164500373" infoWin="Right side loop marking" id="401"/>
+	<marker lat="49.1700516315" lng="-122.845924391" infoWin="Right side loop marking" id="402"/>
+	<marker lat="49.2792665926" lng="-123.014212482" infoWin="Right side median barrier" id="403"/>
+	<marker lat="49.1559108094" lng="-122.901716988" infoWin="Right side bike button" id="404"/>
+	<marker lat="49.212335" lng="-123.117059" infoWin="Eastbound/westbound" id="405"/>
+	<marker lat="49.266965" lng="-123.069696" infoWin="Eastbound/westbound" id="406"/>
+	<marker lat="49.264907" lng="-123.056538" infoWin="Eastbound/westbound" id="407"/>
+	<marker lat="49.243839" lng="-123.056655" infoWin="Eastbound/westbound" id="408"/>
+	<marker lat="49.2791" lng="-123.044093" infoWin="Eastbound/westbound" id="409"/>
+	<marker lat="49.268374" lng="-123.166396" infoWin="Eastbound/westbound" id="410"/>
+	<marker lat="49.233932" lng="-123.065483" infoWin="Eastbound/westbound" id="411"/>
+	<marker lat="49.249021" lng="-123.185202" infoWin="Eastbound/westbound" id="412"/>
+	<marker lat="49.259789" lng="-123.136188" infoWin="Eastbound/westbound" id="413"/>
+	<marker lat="49.25281" lng="-123.10085" infoWin="Eastbound/westbound" id="414"/>
+	<marker lat="49.262437" lng="-123.126511" infoWin="Eastbound/westbound" id="415"/>
+	<marker lat="49.255834" lng="-123.115035" infoWin="Eastbound/westbound" id="416"/>
+	<marker lat="49.258737" lng="-123.114932" infoWin="Eastbound/westbound" id="417"/>
+	<marker lat="49.258952" lng="-123.141124" infoWin="Eastbound/westbound" id="418"/>
+	<marker lat="49.261143" lng="-123.164781" infoWin="Eastbound/westbound" id="419"/>
+	<marker lat="49.225953" lng="-123.112964" infoWin="Northbound/southbound" id="420"/>
+	<marker lat="49.272297" lng="-123.185558" infoWin="Northbound/southbound" id="421"/>
+	<marker lat="49.223178" lng="-123.028071" infoWin="Northbound/southbound" id="422"/>
+	<marker lat="49.248955" lng="-123.073352" infoWin="Northbound/southbound" id="423"/>
+	<marker lat="49.277935" lng="-123.1102" infoWin="Northbound/southbound" id="424"/>
+	<marker lat="49.276542" lng="-123.087356" infoWin="Northbound/southbound" id="425"/>
+	<marker lat="49.276652" lng="-123.093663" infoWin="Northbound/southbound" id="426"/>
+	<marker lat="49.265193" lng="-123.079399" infoWin="Northbound/southbound" id="427"/>
+	<marker lat="49.214238" lng="-123.106389" infoWin="Northbound/southbound" id="428"/>
+	<marker lat="49.228543" lng="-123.105849" infoWin="Northbound/southbound" id="429"/>
+	<marker lat="49.281156" lng="-123.051975" infoWin="Northbound/southbound" id="430"/>
+	<marker lat="49.28307" lng="-123.091365" infoWin="Northbound/southbound" id="431"/>
+	<marker lat="49.249764" lng="-123.159297" infoWin="Northbound/southbound" id="432"/>
+	<marker lat="49.248613" lng="-123.083889" infoWin="Northbound/southbound" id="433"/>
+	<marker lat="49.263847" lng="-123.155287" infoWin="Northbound/southbound" id="434"/>
+	<marker lat="49.249465" lng="-123.141491" infoWin="Northbound/southbound" id="435"/>
+	<marker lat="49.233359" lng="-123.110714" infoWin="Northbound/southbound" id="436"/>
+	<marker lat="49.268636" lng="-123.183551" infoWin="Northbound/southbound" id="437"/>
+	<marker lat="49.287069" lng="-123.128436" infoWin="Northbound/southbound" id="438"/>
+	<marker lat="49.268495" lng="-123.175715" infoWin="Northbound/southbound" id="439"/>
+	<marker lat="49.264214" lng="-123.175887" infoWin="Northbound/southbound" id="440"/>
+	<marker lat="49.268685" lng="-123.190594" infoWin="Northbound/southbound" id="441"/>
+	<marker lat="49.260637" lng="-123.131376" infoWin="Northbound/southbound" id="442"/>
+	<marker lat="49.225267" lng="-123.074543" infoWin="Northbound/southbound" id="443"/>
+	<marker lat="49.260127" lng="-123.098188" infoWin="Northbound/southbound" id="444"/>
+	<marker lat="49.2611" lng="-123.157725" infoWin="Northbound/southbound" id="445"/>
+	<marker lat="49.292193" lng="-123.134398" infoWin="Northbound/southbound" id="446"/>
+	<marker lat="49.208402" lng="-123.124217" infoWin="Northbound/southbound" id="447"/>
+	<marker lat="49.246104" lng="-123.115498" infoWin="Eastbound/westbound" id="448"/>
+	<marker lat="49.207084" lng="-123.142253" infoWin="Eastbound/westbound" id="449"/>
+	<marker lat="49.282158" lng="-123.091341" infoWin="Northbound/southbound" id="450"/>
+	<marker lat="49.246316" lng="-123.033829" infoWin="Eastbound/westbound" id="451"/>
+	<marker lat="49.268471" lng="-123.173804" infoWin="Northbound/southbound" id="452"/>
+	<marker lat="49.270158" lng="-123.102681" infoWin="Eastbound/westbound" id="453"/>
+	<marker lat="49.270167" lng="-123.100714" infoWin="Eastbound/westbound" id="454"/>
+	<marker lat="49.2290807582" lng="-123.175831247" infoWin="Northbound/southbound" id="455"/>
+	<marker lat="49.2745370001" lng="-123.122093001" infoWin="Northbound/southbound" id="456"/>
+	<marker lat="49.229347" lng="-123.128176" infoWin="Eastbound/westbound" id="457"/>
+	<marker lat="49.2306020004" lng="-123.13969" infoWin="Eastbound/westbound" id="458"/>
+	<marker lat="49.2308520003" lng="-123.155678999" infoWin="Eastbound/westbound" id="459"/>
+	<marker lat="49.2347800002854" lng="-123.176667000737" infoWin="Northbound/southbound" id="460"/>
+	<marker lat="49.2474160065" lng="-123.139134445" infoWin="Eastbound/westbound" id="461"/>
+	<marker lat="49.2463058508" lng="-123.127615859" infoWin="Eastbound/westbound" id="462"/>
+	<marker lat="49.2675880695434" lng="-123.113152016883" infoWin="Eastbound/westbound" id="463"/>
+	<marker lat="49.267551065977" lng="-123.112880657396" infoWin="Eastbound/westbound" id="464"/><marker id='201010201100592' editor='mnunes' lat='49.2587084' lng='-123.126789' infoWin='Eastbound/Westbound'/>
+<marker id='201010201103269' editor='mnunes' lat='49.2500418' lng='-123.0900706' infoWin='Eastbound/Westbound'/>
+<marker id='2010102011413286' editor='mnunes' lat='49.2547309' lng='-123.1009695' infoWin='Eastbound/Westbound'/>
+<marker id='2010102011457965' editor='mnunes' lat='49.2520987' lng='-123.1008627' infoWin='Eastbound/Westbound'/>
+<marker id='201353102821462' editor='mnunes' lat='49.2537137' lng='-123.0899399' infoWin='Eastbound/Westbound'/>
+<marker id='201353125651910' editor='mnunes' lat='49.2615238' lng='-123.0891272' infoWin='Eastbound/Westbound'/>
+<marker id='201353131032833' editor='mnunes' lat='49.2639819' lng='-123.1623909' infoWin='Northbound/Southbound'/>
+<marker id='201353132831941' editor='mnunes' lat='49.2337548' lng='-123.1238897' infoWin='Northbound/Southbound'/>
+<marker id='2013531329018' editor='mnunes' lat='49.233782' lng='-123.1209441' infoWin='Northbound/Southbound'/>
+<marker id='201353132926130' editor='mnunes' lat='49.2263133' lng='-123.1217432' infoWin='Northbound/Southbound'/>
+<marker id='20135313426707' editor='mnunes' lat='49.243282' lng='-123.101373' infoWin='Eastbound/Westbound'/>
+</markers>

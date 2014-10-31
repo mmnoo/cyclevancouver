@@ -1,0 +1,132 @@
+using System;
+using System.Web;
+using System.Collections;
+using System.Web.Services;
+using System.Web.Services.Protocols;
+
+using System.Data;
+using System.Text;
+using System.Configuration;
+using System.Web.Configuration;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Data.OleDb;
+using System.ComponentModel;
+
+public partial class Test : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+                //Connection to Access database
+        String sConn3 = WebConfigurationManager.ConnectionStrings["cyclingConnectionString"].ConnectionString;
+        OleDbConnection cyclingConn3 = new OleDbConnection(sConn3);
+
+        try
+        {
+            cyclingConn3.Open();
+
+            string strPathSelection = WebConfigurationManager.ConnectionStrings["cyclingPathSelectionCommand"].ConnectionString;
+            strPathSelection += "select [FNODE_], [TNODE_], [ShpLength], [STREETNAME] from route2 where " +
+                "(([FNODE_] = 6546 and [TNODE_] = 6579) " +
+            " or ([FNODE_] = 6579 and [TNODE_] = 6673) or ([FNODE_] = 6673 and [TNODE_] = 6674) " +
+            " or ([FNODE_] = 6674 and [TNODE_] = 6723) or ([FNODE_] = 6723 and [TNODE_] = 6778) " +
+            " or ([FNODE_] = 6778 and [TNODE_] = 6799) or ([FNODE_] = 6799 and [TNODE_] = 6802) " +
+            " or ([FNODE_] = 6802 and [TNODE_] = 6801) or ([FNODE_] = 6801 and [TNODE_] = 6808) " +
+            " or ([FNODE_] = 6808 and [TNODE_] = 6884) or ([FNODE_] = 6884 and [TNODE_] = 6940) " +
+            " or ([FNODE_] = 6940 and [TNODE_] = 6995) or ([FNODE_] = 6995 and [TNODE_] = 7066) " +
+            " or ([FNODE_] = 7066 and [TNODE_] = 7146) or ([FNODE_] = 7146 and [TNODE_] = 7228) " +
+            " or ([FNODE_] = 7228 and [TNODE_] = 7233) or ([FNODE_] = 7233 and [TNODE_] = 7232) " +
+            " or ([FNODE_] = 7232 and [TNODE_] = 7231) or ([FNODE_] = 7231 and [TNODE_] = 7230) " +
+            " or ([FNODE_] = 7230 and [TNODE_] = 7227) or ([FNODE_] = 7227 and [TNODE_] = 7218) " +
+            " or ([FNODE_] = 7218 and [TNODE_] = 7215) or ([FNODE_] = 7215 and [TNODE_] = 7217) " +
+            " or ([FNODE_] = 7217 and [TNODE_] = 7216) or ([FNODE_] = 7216 and [TNODE_] = 7220) " +
+            " or ([FNODE_] = 7220 and [TNODE_] = 7223) or ([FNODE_] = 7223 and [TNODE_] = 7226) " +
+            " or ([FNODE_] = 7226 and [TNODE_] = 7225) or ([FNODE_] = 7225 and [TNODE_] = 7214) " +
+            " or ([FNODE_] = 7214 and [TNODE_] = 7213) or ([FNODE_] = 7213 and [TNODE_] = 7236) " +
+            " or ([FNODE_] = 7236 and [TNODE_] = 7303) or ([FNODE_] = 7303 and [TNODE_] = 7350) " +
+            " or ([FNODE_] = 7350 and [TNODE_] = 7394) or ([FNODE_] = 7394 and [TNODE_] = 7461) " +
+            " or ([FNODE_] = 7461 and [TNODE_] = 7505) or ([FNODE_] = 7505 and [TNODE_] = 7562) " +
+            " or ([FNODE_] = 7562 and [TNODE_] = 7622) or ([FNODE_] = 7622 and [TNODE_] = 7696) " +
+            " or ([FNODE_] = 7696 and [TNODE_] = 7745) or ([FNODE_] = 7745 and [TNODE_] = 7779) " +
+            " or ([FNODE_] = 7779 and [TNODE_] = 7783) or ([FNODE_] = 7783 and [TNODE_] = 7782) " +
+            " or ([FNODE_] = 7782 and [TNODE_] = 7815) or ([FNODE_] = 7815 and [TNODE_] = 7897) " +
+            " or ([FNODE_] = 7897 and [TNODE_] = 7924) or ([FNODE_] = 7924 and [TNODE_] = 7970) " +
+            " or ([FNODE_] = 7970 and [TNODE_] = 7982) or ([FNODE_] = 7982 and [TNODE_] = 8028) " +
+            " or ([FNODE_] = 8028 and [TNODE_] = 8039) or ([FNODE_] = 8039 and [TNODE_] = 8112) " +
+            " or ([FNODE_] = 8112 and [TNODE_] = 8034) or ([FNODE_] = 8034 and [TNODE_] = 8033) " +
+            " or ([FNODE_] = 8033 and [TNODE_] = 8035) or ([FNODE_] = 8035 and [TNODE_] = 8036) " +
+            " or ([FNODE_] = 8036 and [TNODE_] = 8037) or ([FNODE_] = 8037 and [TNODE_] = 8038) " +
+            " or ([FNODE_] = 8038 and [TNODE_] = 8040) or ([FNODE_] = 8040 and [TNODE_] = 8041) " +
+            " or ([FNODE_] = 8041 and [TNODE_] = 8042) or ([FNODE_] = 8042 and [TNODE_] = 8043) " +
+            " or ([FNODE_] = 8043 and [TNODE_] = 8045) or ([FNODE_] = 8045 and [TNODE_] = 8046) " +
+            " or ([FNODE_] = 8046 and [TNODE_] = 8049) or ([FNODE_] = 8049 and [TNODE_] = 8050) " +
+            " or ([FNODE_] = 8050 and [TNODE_] = 8051) or ([FNODE_] = 8051 and [TNODE_] = 8052) " +
+            " or ([FNODE_] = 8052 and [TNODE_] = 8084) or ([FNODE_] = 8084 and [TNODE_] = 8089) " +
+            " or ([FNODE_] = 8089 and [TNODE_] = 8090) or ([FNODE_] = 8090 and [TNODE_] = 8096) " +
+            " or ([FNODE_] = 8096 and [TNODE_] = 8101) or ([FNODE_] = 8101 and [TNODE_] = 8103) " +
+            " or ([FNODE_] = 8103 and [TNODE_] = 8106) or ([FNODE_] = 8106 and [TNODE_] = 8110) " +
+            " or ([FNODE_] = 8110 and [TNODE_] = 8111) or ([FNODE_] = 8111 and [TNODE_] = 8117) " +
+            " or ([FNODE_] = 8117 and [TNODE_] = 8119) or ([FNODE_] = 8119 and [TNODE_] = 8120) " +
+            " or ([FNODE_] = 8120 and [TNODE_] = 8123) or ([FNODE_] = 8123 and [TNODE_] = 8126) " +
+            " or ([FNODE_] = 8126 and [TNODE_] = 8132) or ([FNODE_] = 8132 and [TNODE_] = 8133) " +
+            " or ([FNODE_] = 8133 and [TNODE_] = 8135) or ([FNODE_] = 8135 and [TNODE_] = 8137) " +
+            " or ([FNODE_] = 8137 and [TNODE_] = 8138) or ([FNODE_] = 8138 and [TNODE_] = 8140) " +
+            " or ([FNODE_] = 8140 and [TNODE_] = 8142) or ([FNODE_] = 8142 and [TNODE_] = 8144) " +
+            " or ([FNODE_] = 8144 and [TNODE_] = 8149) or ([FNODE_] = 8149 and [TNODE_] = 8154) " +
+            " or ([FNODE_] = 8154 and [TNODE_] = 8159) or ([FNODE_] = 8159 and [TNODE_] = 8160) " +
+            " or ([FNODE_] = 8160 and [TNODE_] = 8162) or ([FNODE_] = 8162 and [TNODE_] = 8168) " +
+            " or ([FNODE_] = 8168 and [TNODE_] = 8170) or ([FNODE_] = 8170 and [TNODE_] = 8172) " +
+            " or ([FNODE_] = 8172 and [TNODE_] = 8176) or ([FNODE_] = 8176 and [TNODE_] = 8177) " +
+            " or ([FNODE_] = 8177 and [TNODE_] = 8178) or ([FNODE_] = 8178 and [TNODE_] = 8184) " +
+            " or ([FNODE_] = 8184 and [TNODE_] = 8190) or ([FNODE_] = 8190 and [TNODE_] = 8193) " +
+            " or ([FNODE_] = 8193 and [TNODE_] = 8194) or ([FNODE_] = 8194 and [TNODE_] = 8267) " +
+            " or ([FNODE_] = 8267 and [TNODE_] = 8332) or ([FNODE_] = 8332 and [TNODE_] = 8336) " +
+            " or ([FNODE_] = 8336 and [TNODE_] = 8340) or ([FNODE_] = 8340 and [TNODE_] = 8350) " +
+            " or ([FNODE_] = 8350 and [TNODE_] = 8351) or ([FNODE_] = 8351 and [TNODE_] = 8353) " +
+            " or ([FNODE_] = 8353 and [TNODE_] = 8359) or ([FNODE_] = 8359 and [TNODE_] = 8367) " +
+            " or ([FNODE_] = 8367 and [TNODE_] = 8374) or ([FNODE_] = 8374 and [TNODE_] = 8378) " +
+            " or ([FNODE_] = 8378 and [TNODE_] = 8383) or ([FNODE_] = 8383 and [TNODE_] = 8386) " +
+            " or ([FNODE_] = 8386 and [TNODE_] = 8392) or ([FNODE_] = 8392 and [TNODE_] = 8396) " +
+            " or ([FNODE_] = 8396 and [TNODE_] = 8398) or ([FNODE_] = 8398 and [TNODE_] = 8404) " +
+            " or ([FNODE_] = 8404 and [TNODE_] = 8409) or ([FNODE_] = 8409 and [TNODE_] = 8413) " +
+            " or ([FNODE_] = 8413 and [TNODE_] = 8417) or ([FNODE_] = 8417 and [TNODE_] = 8425) " +
+            " or ([FNODE_] = 8425 and [TNODE_] = 8431) or ([FNODE_] = 8431 and [TNODE_] = 8437) " +
+            " or ([FNODE_] = 8437 and [TNODE_] = 8402) or ([FNODE_] = 8402 and [TNODE_] = 8319) " +
+            " or ([FNODE_] = 8319 and [TNODE_] = 8261) or ([FNODE_] = 8261 and [TNODE_] = 8477) " +
+            " or ([FNODE_] = 8477 and [TNODE_] = 8536) or ([FNODE_] = 8536 and [TNODE_] = 8541) " +
+            " or ([FNODE_] = 8541 and [TNODE_] = 8545) or ([FNODE_] = 8545 and [TNODE_] = 8544) " +
+            " or ([FNODE_] = 8544 and [TNODE_] = 8519) or ([FNODE_] = 8519 and [TNODE_] = 8489) " +
+            " or ([FNODE_] = 8489 and [TNODE_] = 8482) or ([FNODE_] = 8482 and [TNODE_] = 8464) " +
+            " or ([FNODE_] = 8464 and [TNODE_] = 8455) or ([FNODE_] = 8455 and [TNODE_] = 8451) " +
+            " or ([FNODE_] = 8451 and [TNODE_] = 8450) or ([FNODE_] = 8450 and [TNODE_] = 8445) " +
+            " or ([FNODE_] = 8445 and [TNODE_] = 8433) or ([FNODE_] = 8433 and [TNODE_] = 8424) " +
+            " or ([FNODE_] = 8424 and [TNODE_] = 8415) or ([FNODE_] = 8415 and [TNODE_] = 8315) " +
+            " or ([FNODE_] = 8315 and [TNODE_] = 8308) or ([FNODE_] = 8308 and [TNODE_] = 8287) " +
+            " or ([FNODE_] = 8287 and [TNODE_] = 8262) or ([FNODE_] = 8262 and [TNODE_] = 8270) " +
+            " or ([FNODE_] = 8270 and [TNODE_] = 8410))";
+
+            OleDbCommand cyclingPathSelectionCmd = new OleDbCommand(strPathSelection, cyclingConn3);
+            OleDbDataReader cyclingPathSelectionReader = cyclingPathSelectionCmd.ExecuteReader();
+
+            //int[] StreetLength = new int[n];
+            //string[] StreetName = new string[n];
+            string tmpString = "";
+            while (cyclingPathSelectionReader.Read())
+            {
+                tmpString  += Convert.ToString(cyclingPathSelectionReader[3] + " ");
+            }
+            lblFeedback.Text = tmpString;
+   
+
+
+        }
+            finally {
+        
+        cyclingConn3.Close();
+        }
+}
+}
